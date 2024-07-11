@@ -248,6 +248,7 @@ p {
         margin-left: 0px;
         padding-top: 0px;
         justify-items: center;
+        overflow: auto;
     }
 
     h1 {
@@ -279,7 +280,9 @@ p {
     }
 
     .divider {
-        height: 1px;
+        height: 2px; 
+        background-color:var(--LightGrey); 
+        margin: 10px 0; 
     }
 
     ol li {
