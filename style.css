@@ -173,7 +173,7 @@ ol li {
     counter-increment: item;
     position: relative;
     padding-left: 2.4em;
-    color: var(--Nutmeg);
+    /* color: var(--Nutmeg); */
     text-align: left;
     font-size: 1em;
 } 
